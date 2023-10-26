@@ -213,7 +213,7 @@
 - [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 - [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
-
+- [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging#readme) - A modern continuation of DOSBox with advanced features and current development practices.
 ## Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
@@ -616,7 +616,7 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
-
+- [Brilliant](https://brilliant.org/) - Intercative learning.
 ## Security
 
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
@@ -894,3 +894,4 @@
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+- [evenmoreawesome](https://github.com/Resimper/evenmoreawesome) - A better "awesome" list, with a few more additions.
