@@ -726,6 +726,9 @@
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 - [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
+- [Monero](https://www.getmonero.org/) - Secure, Private, And decentralized Cryptocurrency.
+- [Solana](https://solana.com/) - Fast, Scalable, And Energy Efficient Cryptocurrency.
+- [PeerTube](https://joinpeertube.org/?ref=itsfoss.com) - An Decentralized, Open-Source alternative for Youtube.
 
 ## Health and Social Science
 
